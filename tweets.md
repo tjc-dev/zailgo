@@ -365,3 +365,11 @@ https://x.com/wedtm/status/1875163479864389888
 https://x.com/wedtm/status/1875166063861915876
 
 ![Tweet](images/tweets/1875166063861915876.png)
+
+https://x.com/wedtm/status/1875876216143851749
+
+![Tweet](images/tweets/1875876216143851749.png)
+
+https://x.com/wedtm/status/1875915486711411029
+
+![Tweet](images/tweets/1875915486711411029.png)
